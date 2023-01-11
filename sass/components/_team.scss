@@ -65,13 +65,12 @@
 
 		background-color: $button-color;
 	}
-
 	&__icons {
 		fill: currentColor;
 
 		&:hover,
 		&:focus {
-			fill: $button-color;
+			fill: $background-color;
 		}
 	}
 }

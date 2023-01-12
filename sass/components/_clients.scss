@@ -17,7 +17,9 @@
 	display: flex;
 	gap: 30px;
 
-	&__logo {
+	
+}
+.client-box__logo {
 		border: 1px solid $icons-color;
 		border-radius: 4px;
 		display: flex;
@@ -35,4 +37,3 @@
 			border-color: $button-color;
 		}
 	}
-}
